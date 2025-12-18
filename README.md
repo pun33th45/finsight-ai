@@ -10,21 +10,35 @@ Built with React + TypeScript + Vite, the app focuses on clean UI, fast performa
 👉 https://finsight-ai-six.vercel.app/
 
 
-🖼️ Screenshots
 ## 🖼️ Screenshots
 
 ### AI Analysis and Insights
-![AI Analysis and Insights](https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/AI%20analysis%20and%20insights.png)
+<img
+  src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/AI%20analysis%20and%20insights.png"
+  alt="AI Analysis and Insights"
+  width="600"
+/>
 
 ### Transaction Ledger
-![Transaction Ledger](https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/Transaction%20ledger.png)
+<img
+  src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/Transaction%20ledger.png"
+  alt="Transaction Ledger"
+  width="600"
+/>
 
 ### Data Visualization
-![Data Visualization](https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/Vizualization%20of%20data.png)
+<img
+  src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/Vizualization%20of%20data.png"
+  alt="Data Visualization"
+  width="600"
+/>
 
 ### Landing Page & UI
-![Landing Page and UI](https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/landing%20page%20and%20UI.png)
-
+<img
+  src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/landing%20page%20and%20UI.png"
+  alt="Landing Page and UI"
+  width="600"
+/>
 
 📌 Note:
 Screenshots are stored using GitHub raw file permalinks for stability.
