@@ -10,43 +10,75 @@ Built with React + TypeScript + Vite, the app focuses on clean UI, fast performa
 👉 https://finsight-ai-six.vercel.app/
 
 
-## 🖼️ Screenshots
+---
 
-### AI Analysis and Insights
+<h2 align="center">📸 Application Screenshots</h2>
+
+---
+
+<h3 align="center">AI Analysis & Intelligent Insights</h3>
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/AI%20analysis%20and%20insights.png"
     alt="AI Analysis and Insights"
-    width="600"
+    width="650"
   />
 </p>
 
-### Transaction Ledger
+<p align="center">
+  <em>AI-generated summary highlighting spending patterns and actionable insights.</em>
+</p>
+
+---
+
+<h3 align="center">Transaction Ledger</h3>
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/Transaction%20ledger.png"
     alt="Transaction Ledger"
-    width="600"
+    width="650"
   />
 </p>
 
-### Data Visualization
+<p align="center">
+  <em>Detailed ledger displaying categorized transactions and amounts.</em>
+</p>
+
+---
+
+<h3 align="center">Data Visualization</h3>
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/Vizualization%20of%20data.png"
     alt="Data Visualization"
-    width="600"
+    width="650"
   />
 </p>
 
-### Landing Page & UI
+<p align="center">
+  <em>Interactive charts visualizing spending trends over time.</em>
+</p>
+
+---
+
+<h3 align="center">Landing Page & UI</h3>
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/landing%20page%20and%20UI.png"
     alt="Landing Page and UI"
-    width="600"
+    width="650"
   />
 </p>
+
+<p align="center">
+  <em>Clean, minimal interface designed for clarity and usability.</em>
+</p>
+
+---
 
 
 📌 Note:
