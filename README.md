@@ -13,32 +13,41 @@ Built with React + TypeScript + Vite, the app focuses on clean UI, fast performa
 ## 🖼️ Screenshots
 
 ### AI Analysis and Insights
-<img
-  src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/AI%20analysis%20and%20insights.png"
-  alt="AI Analysis and Insights"
-  width="600"
-/>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/AI%20analysis%20and%20insights.png"
+    alt="AI Analysis and Insights"
+    width="600"
+  />
+</p>
 
 ### Transaction Ledger
-<img
-  src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/Transaction%20ledger.png"
-  alt="Transaction Ledger"
-  width="600"
-/>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/Transaction%20ledger.png"
+    alt="Transaction Ledger"
+    width="600"
+  />
+</p>
 
 ### Data Visualization
-<img
-  src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/Vizualization%20of%20data.png"
-  alt="Data Visualization"
-  width="600"
-/>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/Vizualization%20of%20data.png"
+    alt="Data Visualization"
+    width="600"
+  />
+</p>
 
 ### Landing Page & UI
-<img
-  src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/landing%20page%20and%20UI.png"
-  alt="Landing Page and UI"
-  width="600"
-/>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/pun33th45/finsight-ai/a289ab3887a03565e8517dbf1c4f710e8fbbfa41/Screenshots/landing%20page%20and%20UI.png"
+    alt="Landing Page and UI"
+    width="600"
+  />
+</p>
+
 
 📌 Note:
 Screenshots are stored using GitHub raw file permalinks for stability.
