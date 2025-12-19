@@ -177,20 +177,6 @@ VITE_API_KEY	Google Gemini API key
 ⚠️ Since this is a frontend-only app, the API key is exposed in the browser.
 This is acceptable for demos and portfolios, but not recommended for production apps.
 
-📁 Project Structure
-finsight-ai/
-├── index.html
-├── vite.config.ts
-├── package.json
-├── src/
-│   ├── components/
-│   ├── services/
-│   │   └── geminiService.ts
-│   ├── types.ts
-│   ├── App.tsx
-│   └── main.tsx
-└── .env
-
 ⚠️ Known Limitations
 
 Gemini free-tier rate limits may cause temporary AI unavailability
